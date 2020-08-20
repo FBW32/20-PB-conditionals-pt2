@@ -26,7 +26,7 @@ console.log(typeof result); // boolean
 console.log(`Is Mark's BMI higher than John's? Yes, it's ${result}.`); //Is Mark's BMI higher than John's? Yes, it's true.
 if (mark > john) {
     console.log(`Mark has the BMI of ${mark}, hence greater BMI than John`);
-}
+} 
 else {
     console.log(`John has the BMI of ${john}, hence greater BMI than Mark`);
 }
